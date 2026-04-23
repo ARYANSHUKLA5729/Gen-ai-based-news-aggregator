@@ -1,0 +1,21 @@
+# Environment variables — never upload this
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database file
+*.db
+
+# Virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Flask session
+flask_session/
